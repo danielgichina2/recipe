@@ -1,0 +1,10 @@
+.new-container {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-container > form {
+    width: 70vw;
+}
